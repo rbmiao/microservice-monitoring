@@ -1,7 +1,12 @@
+
+
+
 # Microservice Monitoring
 
 Monitor logs, metrics, pings, and traces of your distributed (micro-) services. There are also [slides](https://speakerdeck.com/xeraa/360-degrees-monitoring-of-your-microservices) walking you through the features of this repository.
 
+
+Reference: [Video](https://www.youtube.com/watch?v=8NxzQAfHaU4) for features.
 
 
 ## Features
